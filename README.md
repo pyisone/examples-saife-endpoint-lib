@@ -1,2 +1,2 @@
-example-hello_world
+examples-saife-endpoint-lib
 ===================
